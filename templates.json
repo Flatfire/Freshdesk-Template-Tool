@@ -1,0 +1,12 @@
+{
+"templates" : [
+	{
+	"quickref": "sampleref",
+	"title":"Sample Title",
+	"regions": ["SAMPLE REGION"],
+	"description": "This is a generic description"
+	}],
+"contacts" : {
+    "SAMPLE REGION":"samplecontact@contact.ca"
+	}
+}

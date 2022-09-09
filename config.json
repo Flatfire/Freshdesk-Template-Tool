@@ -1,0 +1,6 @@
+{
+"_comment": "The API Key can be found in the Freshdesk agent profile page. Quotes are important when entering values into this config.",
+"apiKey" : "",
+"agentID": "", 
+"domain" : ""
+}
