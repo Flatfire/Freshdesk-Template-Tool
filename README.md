@@ -1,4 +1,4 @@
-##Ticket Template Tool V1
+## Ticket Template Tool V1
 
 This an easily configurable tool for creating FreshDesk tickets for designated regions
 based on predefined templates. It uses the FreshDesk API to provide Agents with an easy
@@ -14,7 +14,7 @@ from the command line.
 
 For information about the Freshdesk API go to https://developers.freshdesk.com/api/
 
-##Getting Started:
+## Getting Started:
 	
 	Configuration:
 		
@@ -49,7 +49,7 @@ For information about the Freshdesk API go to https://developers.freshdesk.com/a
 		Regional/Company contacts are contained in the contacts field, each email contact is
 		represented by their corresponding region. This is of the format "Company" : "Email"
 		
-##Creating Tickets:
+## Creating Tickets:
 
 	By Argument:
 		
