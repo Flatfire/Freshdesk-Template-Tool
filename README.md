@@ -1,20 +1,20 @@
-Ticket Template Tool V1
+##Ticket Template Tool V1
 
-	This an easily configurable tool for creating FreshDesk tickets for designated regions
-	based on predefined templates. It uses the FreshDesk API to provide Agents with an easy
-	way to create tickets based on user definable templates either through a brief menu
-	system or by command line arguments. It is also capable of viewing raw JSON ticket data
-	when provided a ticket number.
-	
-	The only required external python library is 'requests'. It can be installed with
-		
-		pip install requests
-	
-	from the command line.
-	
-	For information about the Freshdesk API go to https://developers.freshdesk.com/api/
+This an easily configurable tool for creating FreshDesk tickets for designated regions
+based on predefined templates. It uses the FreshDesk API to provide Agents with an easy
+way to create tickets based on user definable templates either through a brief menu
+system or by command line arguments. It is also capable of viewing raw JSON ticket data
+when provided a ticket number.
 
-Getting Started:
+The only required external python library is 'requests'. It can be installed with
+	
+	pip install requests
+
+from the command line.
+
+For information about the Freshdesk API go to https://developers.freshdesk.com/api/
+
+##Getting Started:
 	
 	Configuration:
 		
@@ -49,7 +49,7 @@ Getting Started:
 		Regional/Company contacts are contained in the contacts field, each email contact is
 		represented by their corresponding region. This is of the format "Company" : "Email"
 		
-Creating Tickets:
+##Creating Tickets:
 
 	By Argument:
 		
